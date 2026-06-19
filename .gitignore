@@ -1,0 +1,11 @@
+.venv/
+jobs.db
+*.docx
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.sqlite
+*.sqlite3
+~$*

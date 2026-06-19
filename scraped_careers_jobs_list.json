@@ -1,0 +1,434 @@
+[
+  {
+    "jobUrl": "https://careers.paramount.com/go/All-Current-Job-Opportunities/8710000/",
+    "jobTitle": "VIEW OPENINGS",
+    "companyName": "Paramount",
+    "companyUrl": "https://www.linkedin.com/company/paramountco/",
+    "careersPageUrl": "https://www.paramount.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://www.paramount.com/careers/careers/streaming-jobs",
+    "jobTitle": "LEARN MORE",
+    "companyName": "Paramount",
+    "companyUrl": "https://www.linkedin.com/company/paramountco/",
+    "careersPageUrl": "https://www.paramount.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://www.paramount.com/careers/careers/technology-jobs",
+    "jobTitle": "LEARN MORE",
+    "companyName": "Paramount",
+    "companyUrl": "https://www.linkedin.com/company/paramountco/",
+    "careersPageUrl": "https://www.paramount.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/search-jobs",
+    "jobTitle": "Search Jobs",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/saved-jobs",
+    "jobTitle": "Saved Jobs0",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/business-support-and-operations-jobs",
+    "jobTitle": "Business Support & Operations",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/business-development-jobs",
+    "jobTitle": "Business Development",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/human-resources-jobs",
+    "jobTitle": "Human Resources",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/consumer-product-jobs",
+    "jobTitle": "Consumer Products",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/creative-and-content-development-jobs",
+    "jobTitle": "Creative & Content Development",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/finance-jobs",
+    "jobTitle": "Finance",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/data-and-analytics-jobs",
+    "jobTitle": "Data & Analytics",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/guest-services-and-operations-jobs",
+    "jobTitle": "Guest Service & Operations",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/maritime-and-cruise-operations-jobs",
+    "jobTitle": "Maritime & Cruise Operations",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/technology-jobs",
+    "jobTitle": "Technology",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/marketing-and-communications-jobs",
+    "jobTitle": "Marketing & Communications",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/sales-and-distribution-jobs",
+    "jobTitle": "Sales & Distribution",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/operations-support-jobs",
+    "jobTitle": "Operations Support",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/production-and-entertainment-jobs",
+    "jobTitle": "Production & Entertainment",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.disneycareers.com/disney-programs#culinary",
+    "jobTitle": "Disney Culinary Program",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.disneycareers.com/disney-programs#international",
+    "jobTitle": "Disney International Programs",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/us-and-canada-jobs",
+    "jobTitle": "Explore Jobs(North America)",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/latam-jobs",
+    "jobTitle": "Explore Jobs(Latin America)",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/emea-jobs",
+    "jobTitle": "Explore Jobs(Europe, Middle East and Africa)",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/apac-jobs",
+    "jobTitle": "Explore Jobs(Asia Pacific)",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://chinajobs.disneycareers.cn/en/search-jobs",
+    "jobTitle": "Explore Mainland China Jobs",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://www.disneycareers.com/about/careers/en/walt-disney-studios-jobs",
+    "jobTitle": "View all jobs(The Walt Disney Studios)",
+    "companyName": "The Walt Disney Company",
+    "companyUrl": "https://www.linkedin.com/company/the-walt-disney-company/",
+    "careersPageUrl": "http://www.disneycareers.com/about/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://job-boards.greenhouse.io/flip/jobs/5070400008",
+    "jobTitle": "Apply Now",
+    "companyName": "Flip",
+    "companyUrl": "https://www.linkedin.com/company/flipcx/",
+    "careersPageUrl": "https://flipcx.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://job-boards.greenhouse.io/flip/jobs/4596665008",
+    "jobTitle": "Apply Now",
+    "companyName": "Flip",
+    "companyUrl": "https://www.linkedin.com/company/flipcx/",
+    "careersPageUrl": "https://flipcx.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://job-boards.greenhouse.io/flip/jobs/4592556008",
+    "jobTitle": "Apply Now",
+    "companyName": "Flip",
+    "companyUrl": "https://www.linkedin.com/company/flipcx/",
+    "careersPageUrl": "https://flipcx.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://job-boards.greenhouse.io/flip",
+    "jobTitle": "View All Jobs",
+    "companyName": "Flip",
+    "companyUrl": "https://www.linkedin.com/company/flipcx/",
+    "careersPageUrl": "https://flipcx.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://www.intuit.com/careers/teams/software-engineering/",
+    "jobTitle": "Software Engineering",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/",
+    "jobTitle": "Search and apply",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/administration-jobs/27595/68333/1",
+    "jobTitle": "AdministrationOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/communications-jobs/27595/8698672/1",
+    "jobTitle": "CommunicationsOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/corporate-strategy-and-development-jobs/27595/68335/1",
+    "jobTitle": "Corporate Strategy & DevelopmentOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/customer-success-jobs/27595/8821216/1",
+    "jobTitle": "Customer SuccessOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/design-and-user-experience-jobs/27595/68340/1",
+    "jobTitle": "Design & User ExperienceOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/executive-jobs/27595/68342/1",
+    "jobTitle": "ExecutiveOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/finance-jobs/27595/8698496/1",
+    "jobTitle": "FinanceOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/human-resources-jobs/27595/68345/1",
+    "jobTitle": "Human ResourcesOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/information-technology-jobs/27595/68347/1",
+    "jobTitle": "Information TechnologyOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/legal-compliance-and-policy-jobs/27595/8698688/1",
+    "jobTitle": "Legal, Compliance, & PolicyOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/program-management-and-business-operations-jobs/27595/8698480/1",
+    "jobTitle": "Program Management & Business OperationsOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/real-estate-and-workplace-services-jobs/27595/68354/1",
+    "jobTitle": "Real Estate & Workplace ServicesOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/security-risk-and-fraud-jobs/27595/8698560/1",
+    "jobTitle": "Security, Risk & FraudOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.intuit.com/category/tax-and-bookkeeping-experts-jobs/27595/9211424/1",
+    "jobTitle": "Tax & BookkeepingOpens in a new tab",
+    "companyName": "Intuit",
+    "companyUrl": "https://www.linkedin.com/company/intuit/",
+    "careersPageUrl": "https://www.intuit.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://www.confidotech.com/careers/#careers",
+    "jobTitle": "View Open Jobs",
+    "companyName": "Confido",
+    "companyUrl": "https://www.linkedin.com/company/confidotech/",
+    "careersPageUrl": "https://www.confidotech.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.ashbyhq.com/confido",
+    "jobTitle": "Apply Now",
+    "companyName": "Confido",
+    "companyUrl": "https://www.linkedin.com/company/confidotech/",
+    "careersPageUrl": "https://www.confidotech.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://docs.hifi.com",
+    "jobTitle": "Developer",
+    "companyName": "HIFI",
+    "companyUrl": "https://www.linkedin.com/company/hifibridge/",
+    "careersPageUrl": "https://www.hifi.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://jobs.ashbyhq.com/hifi",
+    "jobTitle": "Explore open roles",
+    "companyName": "HIFI",
+    "companyUrl": "https://www.linkedin.com/company/hifibridge/",
+    "careersPageUrl": "https://www.hifi.com/careers",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "http://apply.starbucks.com",
+    "jobTitle": "Search jobs",
+    "companyName": "Starbucks",
+    "companyUrl": "https://www.linkedin.com/company/starbucks/",
+    "careersPageUrl": "https://careers.starbucks.com/",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://apply.starbucks.com/careers",
+    "jobTitle": "Search jobs",
+    "companyName": "Starbucks",
+    "companyUrl": "https://www.linkedin.com/company/starbucks/",
+    "careersPageUrl": "https://careers.starbucks.com/",
+    "source": "web_scrape"
+  },
+  {
+    "jobUrl": "https://www.instagram.com/starbucksjobs/?hl=en",
+    "jobTitle": "Follow us on Instagram",
+    "companyName": "Starbucks",
+    "companyUrl": "https://www.linkedin.com/company/starbucks/",
+    "careersPageUrl": "https://careers.starbucks.com/",
+    "source": "web_scrape"
+  }
+]
