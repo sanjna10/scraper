@@ -20,9 +20,24 @@ This repository supports two main workflows:
    - Discover the company's careers page.
    - Optionally find a first opening link.
 
+## Flow Chart
+
+```mermaid
+flowchart LR
+   A[Apify Job Search] --> B[Company Website Lookup]
+   B --> C[Find Careers Page]
+   C --> D[Scrape Careers Page Jobs]
+   D --> E[Clean & Canonicalize (scraper/job_utils.py)]
+   E --> F[SQLite DB (jobs table)]
+   F --> G[Refresh Careers Pages (refresh_careers_jobs_db.py)]
+   F --> H[Check Job Availability (check_job_availability.py)]
+   G --> F
+   H --> F
+```
+
 ## Repository Structure
 
-- `scraper/`
+ - `scraper/`
   - `main.py` — CLI entry point for the package.
   - `apify_adapter.py` — Apify actor wrappers and call helpers.
   - `job_utils.py` — job normalization, URL canonicalization, and validation utilities.
