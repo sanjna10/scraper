@@ -93,3 +93,54 @@ def validate_job_record(job: dict) -> bool:
     if len(job.get("jobTitle")) < 5:
         return False
     return True
+
+
+def is_likely_job_posting(job_url: str, job_title: str = "") -> bool:
+    """
+    Heuristic to decide whether a URL refers to an individual job posting
+    (vs. a generic careers/listing page). Returns True if the URL looks
+    like a job detail page.
+
+    Heuristics used:
+    - Last path segment is a numeric id (3+ digits) or a long hex/uuid-like string
+    - Query string contains id/job/position indicators
+    - Path contains job/apply/position keywords
+    - Fallback to job-title keywords (e.g. 'engineer', 'developer') if present
+    """
+    if not job_url:
+        return False
+
+    try:
+        url = canonicalize_url(job_url)
+    except Exception:
+        url = job_url or ""
+
+    parsed = urlparse(url)
+    path = (parsed.path or "").rstrip("/")
+    last = path.split("/")[-1] if path else ""
+
+    # Check query string for id-like parameters
+    qs = (parsed.query or "").lower()
+    if qs:
+        if re.search(r'(\b(job|id|position|posting)\b)=', qs):
+            return True
+        if re.search(r'\b[0-9]{3,}\b', qs):
+            return True
+
+    # Last path segment patterns
+    if re.fullmatch(r'[0-9]{3,}', last):
+        return True
+    if re.fullmatch(r'[0-9a-f]{6,}', last, re.IGNORECASE):
+        return True
+    if re.fullmatch(r'[0-9a-fA-F\-]{8,36}', last):
+        return True
+
+    # Path or last segment containing job/apply keywords
+    if re.search(r'\b(job|apply|position|opening|posting)\b', path, re.IGNORECASE):
+        return True
+
+    # Fallback: title contains job-like keywords and appears descriptive
+    if job_title and len(job_title) > 6 and re.search(r'engineer|developer|designer|manager|analyst|sales|marketing|software|senior|junior', job_title, re.IGNORECASE):
+        return True
+
+    return False
