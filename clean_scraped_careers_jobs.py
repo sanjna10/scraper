@@ -5,6 +5,7 @@ Clean raw scraped careers jobs JSON into a validated, canonicalized jobs file.
 
 import argparse
 import json
+import re
 from pathlib import Path
 from typing import Dict, List, Tuple
 
@@ -27,6 +28,12 @@ def clean_jobs(raw_jobs: List[Dict]) -> Tuple[List[Dict], int, int, int]:
         if not validate_job_record(cleaned):
             skipped += 1
             continue
+
+        # Remove jobs whose URL does not end with a number (keep only URLs ending with digits)
+        if not re.search(r"\d+$", cleaned.get("jobUrl", "")):
+            skipped += 1
+            continue
+ 
 
         job_url = cleaned["jobUrl"]
         if job_url in seen_urls:
